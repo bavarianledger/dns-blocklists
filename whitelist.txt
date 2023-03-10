@@ -1,0 +1,20 @@
+# bavarianledger's White-/Allowlist
+# The list contains incorrectly blocked domains that limit functionality
+# https://github.com/bavarianledger/dns-blocklists
+
+# Twitter
+# ads.twitter.com
+# analytics.twitter.com
+# syndication.twitter.com
+t.co
+
+# Youtube
+*.googlevideo.com
+*.ytimg.com
+i.ytimg.com
+i1.ytimg.com
+s.youtube.com
+s.ytimg.com
+s2.youtube.com
+youtu.be
+youtube-nocookie.com
